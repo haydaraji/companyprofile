@@ -1,3 +1,3 @@
 Company Profile
 
-jhousetechno.github.io
+https://jhousetechno.github.io/companyprofile/
